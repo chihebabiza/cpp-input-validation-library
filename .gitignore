@@ -1,3 +1,4 @@
 # ignore .exe files
 
 *.exe
+test.cpp
